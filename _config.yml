@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Saeed Jahanbaksh"
+title                    : "Saeed J. Personal Website"
 title_separator          : "-"
-name                     : &name "Saeed J."
-description              : &description "this is my online CV"
+name                     : &name "Mohammad Saeed Jahanbakhsh"
+description              : &description "Saeed Jahanbakhsh's Personal Website"
 url                      : https://msjahanbakhsh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "msjahanbakhsh/msjahanbakhsh.github.io"
@@ -64,7 +64,7 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : "t.me/MohmdSaeed"
+  telegram         : "https://t.me/MohmdSaeed/"
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
@@ -117,7 +117,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
