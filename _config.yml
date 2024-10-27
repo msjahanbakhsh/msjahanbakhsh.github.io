@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Saeed J."
 description              : &description "this is my online CV"
 url                      : https://msjahanbakhsh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/cv" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : "msjahanbakhsh/msjahanbakhsh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
