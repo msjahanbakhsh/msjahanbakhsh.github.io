@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Saeed Jahanbakhsh"
   pronouns         : "he/him"  
-  bio              : "Experienced mechanical engineer"
+  bio              : "Researcher, M.Sc. in Mechanical Engineering"
   location         : "Tehran, Iran"
   employer         : "Tarbiat Modares University"
   uri              : # URL
@@ -271,7 +271,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comment: true
   # _talks
   - scope:
