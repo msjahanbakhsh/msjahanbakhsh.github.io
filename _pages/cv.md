@@ -29,6 +29,14 @@ Experience
 * Automation of industrial weighing & packing machine for mining industry using **loadcells** and **PLC**
 * Development of a **fall detection wearable device** for the elderly using **IMU sensor**
 
+> **Mechatronics Engineer, Co-founder** at 
+Self-employed (Branded as Kaardone Industral Group), Tehran, Iran 
+(Sep 2020 - Present)
+* **Industrial Automation** equipment design & manufacturing
+*	Mechanical design of **mining machinery**
+*	Electrical cabinet design and wiring for control of **industrial machines**
+
+
 > **R&D Project Director, Senior Mechatronics Engineer** at 
 [Pooyesh Injection Medical Instruments Co.](https://pinjection.com/en/home/), Tehran, Iran 
 (May 2021 - Jun 2023)
@@ -59,8 +67,6 @@ Hounors & Achievements
 
 Notable Course Projects
 ======
-* **Wind gust disturbance rejection in XY antenna pedestal control** (MATLAB)
-  * Advanced Control - Fall 2022 
 * **Simulation and control of 3R robotic arm** (MATLAB and Simulink)
   * Advanced Robotics - Winter 2022
 * **Pneumatics circuit logic analysis** (Logicly and FluidSIM)
@@ -102,20 +108,22 @@ Technical Skills
 * Arduino
 * C++
 * MATLAB
+* LabView
+* PLC Ladder Logic
 
 **Software Tools**:
-* Solidworks, MATLAB, LabView, ADAMS, Abaqus, ANSYS Fluent, Unix, Git, TIAPortal, EPLAN
+* Solidworks, MATLAB, ROS, LabView, ADAMS, Abaqus, ANSYS Fluent, Unix, Git, TIA Portal, EPLAN
 
 Electronic Circuits, Raspberry Pi, Arduino, Electrical Components and Cabinets
 
-Mechanical Components Design, CAD Drawings
+Mechanical Components Design, CAD/CAM, Rapid prototyping, 2D & 3D CNC Machines Operation, 3D Printing
 
 Abilities, Activities & Interests
 ======
 * **Language**: **English** (**IELTS Band Score 8.0**: Listening 8.5 Reading 9.0 Writing 7.5 Speaking 7.0), Persian (native speaker)
-* **Certifications**: SOLIDWORKS, MATLAB, EPLAN, GD&T, Hydraulics & Pneumatics, C++
+* **Certifications**: SOLIDWORKS, MATLAB, Machine Learning, EPLAN, GD&T, Hydraulics & Pneumatics, C++
 * **General skills**: MS Office, Photography, Graphic design, Photo & video editing, Website design
-* **Soft skills**: Teamwork (as well as ability to work independently), flexibility to various working environments, project management, team leadership, learning new things, working under tight deadlines, teaching
+* **Soft skills**: Teamwork (and ability to work independently), adaptability, organization, project management, leadership, quick learning, working under deadlines, teaching, multitasking, written and verbal communication, interpersonal skills, discretion, problem-solving, and a proactive mindset
 * **Hobbies and interests**: Hiking, Motorsports, DIY projects, Travelling and experiencing cultures, Music, Aviation
 * **Activities**: Voluntary aid to poor regions, former member of university’s cinema association, former editor of faculty’s scientific magazine: MechMag
 
@@ -127,19 +135,19 @@ Assistant Professor, Faculty of Mechanical Engineering, Tarbiat Modares Universi
 <!-- majid.sadedel@modares.ac.ir
 +989127797036 -->
 
-[**Prof. Karen Abrinia**](https://me.ut.ac.ir/~cabrinia) (My BSc supervisor)
+> [**Prof. Karen Abrinia**](https://me.ut.ac.ir/~cabrinia) (My BSc supervisor)
 
 Professor, Faculty of Mechanical Engineering, University of Tehran, Iran
 <!-- cabrinia@ut.ac.ir
 +989121159113 -->
 
-[**Dr. Alireza Sadeghi**](https://me.ut.ac.ir/~alireza.sadeghi) (My BSc tutor & former employer)
+> [**Dr. Alireza Sadeghi**](https://me.ut.ac.ir/~alireza.sadeghi) (My BSc tutor & former employer)
 
 Assistant Professor, Faculty of Mechanical Engineering, University of Tehran, Iran
 <!-- alireza.sadeghi@ut.ac.ir
 +989122172506 -->
 
-[**Dr. M. A. Sadeghi**](https://ece.ut.ac.ir/en/~asadeghi) (My former employer)
+> [**Dr. M. A. Sadeghi**](https://ece.ut.ac.ir/en/~asadeghi) (My former employer)
 
 Assistant Professor, Faculty of Computer Engineering, University of Tehran, Iran
 <!-- asadeghi@ut.ac.ir
