@@ -22,9 +22,16 @@ Education
 
 Experience
 ======
+> **Senior Mechanical Engineer** at 
+[Aria Railway Development, TORA](http://tora.ir/), Tehran, Iran 
+(Sep 2025 - Present)
+*	Prepared and maintained **technical and quality documentation** related to the maintenance and overhaul of **rail fleets and diesel engines**.
+*	Supervised outsourcing, **manufacturing**, **quality control**, and acceptance processes for **locomotive parts** and equipment supplied by domestic and international vendors.
+*	Monitored operational performance and contributed to the **management of rail fleet maintenance projects**.
+
 > **Research Assistant & Lead Mechatronics Engineer** at 
 [Advanced Mechatronics Innovation Center (AMIC) Lab](http://amic.modares.ac.ir/en/home-2/), Tarbiat Modares University, Tehran, Iran 
-(Sep 2021 - Present)
+(Sep 2021 - Oct 2025)
 * Design, optimization, manufacturing and **tracking control** of a **novel 2-DOF pointing mechanism**, resulting in major improvements in cost-efficiency and precision 
 * Automation of industrial weighing & packing machine for mining industry using **loadcells** and **PLC**
 * Development of a **fall detection wearable device** for the elderly using **IMU sensor**
@@ -121,7 +128,7 @@ Mechanical Components Design, CAD/CAM, Rapid prototyping, 2D & 3D CNC Machines O
 Abilities, Activities & Interests
 ======
 * **Language**: **English** (**IELTS Band Score 8.0**: Listening 8.5 Reading 9.0 Writing 7.5 Speaking 7.0), Persian (native speaker)
-* **Certifications**: SOLIDWORKS, MATLAB, Machine Learning, EPLAN, GD&T, Hydraulics & Pneumatics, C++
+* **Certifications**: SOLIDWORKS, CATIA, MATLAB, Machine Learning, EPLAN, GD&T, Hydraulics & Pneumatics, C++
 * **General skills**: MS Office, Photography, Graphic design, Photo & video editing, Website design
 * **Soft skills**: Teamwork (and ability to work independently), adaptability, organization, project management, leadership, quick learning, working under deadlines, teaching, multitasking, written and verbal communication, interpersonal skills, discretion, problem-solving, and a proactive mindset
 * **Hobbies and interests**: Hiking, Motorsports, DIY projects, Travelling and experiencing cultures, Music, Aviation
